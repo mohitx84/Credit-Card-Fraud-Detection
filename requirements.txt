@@ -2,4 +2,4 @@ streamlit
 numpy
 pandas
 scikit-learn
-Source: Kaggle - Credit Card Fraud Detection
+**Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
